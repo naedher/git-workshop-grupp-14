@@ -10,6 +10,8 @@ public class Main {
             case "omar":
                 Omar.hello();
                 break;
+            case "omar food":
+                Omar.food();
             default:
                 System.out.println("Name not recognized.");
         }
